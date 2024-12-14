@@ -34,7 +34,3 @@ If you’re stuck, need help, or just wanna share ideas, hit me up! I’m happy 
 ✨ Let’s learn, grow, and code together—just don’t turn my repo into your shortcut machine, alright? Cheers,  
 **KhodamIblis** 🚀  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jodinurf&show_icons=true&locale=en&layout=compact" alt="jodinurf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jodinurf&theme=dark" alt="jodinurf" /></p>
-
