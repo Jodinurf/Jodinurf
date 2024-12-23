@@ -34,3 +34,7 @@ If you’re stuck, need help, or just wanna share ideas, hit me up! I’m happy 
 ✨ Let’s learn, grow, and code together—just don’t turn my repo into your shortcut machine, alright? Cheers,  
 **KhodamIblis** 🚀  
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodinurf&layout=compact)
+
