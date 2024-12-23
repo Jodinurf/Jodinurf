@@ -36,5 +36,6 @@ If you’re stuck, need help, or just wanna share ideas, hit me up! I’m happy 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodinurf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodinurf&layout=compact&theme=dark)
+
 
